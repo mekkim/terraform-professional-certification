@@ -1,4 +1,4 @@
-# Domain 6 - Terraform Cloud & Enterprise Capabilities
+# Domain 6 - Collaborate on infrastructure as code using HCP Terraform
 
 The code mentioned in this document are used in the Terraform Authoring and Operations Pro with AWS 2025 video course.
 
