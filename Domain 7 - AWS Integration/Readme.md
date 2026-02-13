@@ -1,4 +1,4 @@
-# Domain 7 - Collaborate on infrastructure as code using HCP Terraform
+# Domain 7 - AWS integration Practicals
 
 The code mentioned in this document are used in the Terraform Authoring and Operations Pro with AWS 2025 video course.
 
